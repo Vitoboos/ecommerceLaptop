@@ -1,0 +1,27 @@
+@font-face {
+    font-family: Monserrat;
+    src: url(../../fonts/Montserrat-VariableFont_wght.ttf);
+}
+
+.title{
+    text-align: center;
+    font-family: Monserrat;
+}
+
+.checkout{
+    display: block;
+    background-color: white;
+    border: none;
+    margin: 1vh auto;
+    padding: 3vh 4vw;
+    border-radius: 5px;
+    border: solid black thin;
+    box-shadow: rgba(0, 0, 0, 0.5) 2px 2px;
+}
+
+.checkout:hover{
+    color: white;
+    background-color: #3e3e3e;
+    cursor: pointer;
+    border: none;
+}

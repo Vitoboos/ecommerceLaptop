@@ -1,0 +1,58 @@
+.mainBox{
+    display: grid;
+    grid-template-columns: 30% 60% 10%;
+    margin: 2vh 1vw;
+
+    border: solid black thin;
+}
+
+.cartSide{
+    grid-column: 3;
+}
+
+.cartSide .icon{
+    margin: 10px 0px;
+    width: 80%;
+    height: 8vh;
+}
+
+.cartSide .icon:hover{
+    cursor: pointer;
+}
+
+.cartSide .tab{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.cartSide .tab:hover{
+    cursor: pointer;
+    background-color: aliceblue;
+}
+
+.tabs{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.tabs .tab{
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.tabs .tab:hover{
+    background-color: aliceblue;
+    cursor: pointer;
+}

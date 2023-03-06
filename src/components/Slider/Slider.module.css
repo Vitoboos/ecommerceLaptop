@@ -1,0 +1,39 @@
+.active{
+    display: block;
+}
+
+.non{
+    display: none;
+}
+
+.wrapper{
+    position: relative;
+}
+
+.leftBtn button, .rightBtn button{
+    color: white;
+    background: none;
+    width: 5vw;
+    height: 7vh;
+    border-radius: 25px;
+    font-size: 2vw;
+    border: none;
+}
+
+.leftBtn button:hover, .rightBtn button:hover{
+    cursor: pointer;
+    background-color: gray;
+    color: white;
+}
+
+.leftBtn{
+    position: absolute;
+    left: 1%;
+    bottom: 50%;
+}
+
+.rightBtn{
+    position: absolute;
+    right: 1%;
+    bottom: 50%;
+}

@@ -1,0 +1,50 @@
+@font-face {
+    font-family: Monserrat;
+    src: url(../../fonts/Montserrat-VariableFont_wght.ttf);
+}
+
+.brandSection{
+    margin: 1vh 5vw;
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    box-shadow: rgb(0, 0, 0, 0.5) 0px 4px;
+    border: solid black thin;
+}
+
+.mainTitle{
+    margin: 0px;
+    grid-column: span 7;
+    text-align: center;
+    border-bottom: solid gray thin;
+    font-family: Monserrat;
+
+    user-select: none;
+}
+
+.brandBox{
+    background-color: white;
+    border-right: solid black thin;
+}
+
+.brandBox .name{
+    margin: 0px;
+    padding: 5px;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(41, 41, 41);
+    font-family: Monserrat;
+    border-bottom: solid black thin;
+}
+
+.brandBox .logo{
+    background-color: white;
+    display: block;
+    margin: 1vh auto;
+    width: 80%;
+    height: 15vh;
+}
+
+.brandBox:hover .name{
+    color: white;
+    background-color: #3e3e3e;
+}

@@ -1,0 +1,60 @@
+@font-face {
+    font-family: MonserratItalic;
+    src: url(../../../fonts/Montserrat-Italic-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: Monserrat;
+    src: url(../../../fonts/Montserrat-VariableFont_wght.ttf);
+}
+
+.item{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.title{
+    margin: 1vh 0px;
+    font-size: 16px;
+    text-align: center;
+    font-family: MonserratItalic;
+}
+
+.icon{
+    display: block;
+    margin: auto;
+    width: 15vw;
+    height: 20vh;
+}
+
+.paragraph{
+    text-align: center;
+}
+
+.list{
+    margin: 0px;
+    padding: 5px;
+    list-style-type: none;
+    text-align: center;
+}
+
+.list li{
+    margin: 0.5vh 0px;
+    padding: 3px;
+}
+
+.list button{
+    background-color: whitesmoke;
+    color: black;
+    border: none;
+    margin: 1vh 0px;
+    padding: 10px;
+    border: groove #3e3e3e thin;
+    border-radius: 5px;
+}
+
+.list button:hover{
+    background-color: darkgreen;
+    color: white;
+    cursor: pointer;
+    border: ridge #3e3e3e thin;
+}

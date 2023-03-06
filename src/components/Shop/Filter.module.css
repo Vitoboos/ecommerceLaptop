@@ -1,0 +1,54 @@
+@font-face {
+    font-family: Monserrat;
+    src: url(../../fonts/Montserrat-VariableFont_wght.ttf);
+}
+
+.wrapper{
+    width: 100%;
+    position: relative;
+    font-family: Monserrat;
+}
+
+.subtitle{
+    margin: 0;
+    text-align: center;
+    font-size: 20px;
+    pointer-events: none;
+    user-select: none;
+    border-bottom: dashed black thin;
+}
+
+.list{
+    margin: 1vh 1vw;
+    padding: 0;
+    border: solid black thin;
+}
+
+.tab{
+    margin: 0;
+    padding: 5px;
+    list-style-type: none;
+    text-align: center;
+}
+
+.tab:hover{
+    background-color: aliceblue;
+    cursor: pointer;
+}
+
+
+/*  Hide Product */
+
+.hidden{
+    display: none;
+}
+
+/* Display Product */
+
+.active{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin: 1vw 1vh;
+    padding: 5px;
+    border: solid black thin;
+}

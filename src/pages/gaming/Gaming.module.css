@@ -1,0 +1,13 @@
+.filter{
+    background-color: lightgray;
+}
+
+.filter h1{
+    font-size: 100%;
+    text-align: center;
+}
+
+.wrapper{
+    display: grid;
+    grid-template-columns: 20% 80%;
+}
