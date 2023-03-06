@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/laptopSite/static/css/main.ab1f4251.css",
-    "main.js": "/laptopSite/static/js/main.b37dfdae.js",
-    "static/js/787.0a1c06b3.chunk.js": "/laptopSite/static/js/787.0a1c06b3.chunk.js",
-    "static/media/Montserrat-Italic-VariableFont_wght.ttf": "/laptopSite/static/media/Montserrat-Italic-VariableFont_wght.ef11b720b9a6cfb9a317.ttf",
-    "static/media/Montserrat-VariableFont_wght.ttf": "/laptopSite/static/media/Montserrat-VariableFont_wght.3faa3eef13649db02044.ttf",
-    "index.html": "/laptopSite/index.html",
-    "main.ab1f4251.css.map": "/laptopSite/static/css/main.ab1f4251.css.map",
-    "main.b37dfdae.js.map": "/laptopSite/static/js/main.b37dfdae.js.map",
-    "787.0a1c06b3.chunk.js.map": "/laptopSite/static/js/787.0a1c06b3.chunk.js.map"
+    "main.css": "/ecommerceLaptop/static/css/main.6ef5a793.css",
+    "main.js": "/ecommerceLaptop/static/js/main.59b5e9f6.js",
+    "static/js/787.0a1c06b3.chunk.js": "/ecommerceLaptop/static/js/787.0a1c06b3.chunk.js",
+    "static/media/Montserrat-Italic-VariableFont_wght.ttf": "/ecommerceLaptop/static/media/Montserrat-Italic-VariableFont_wght.ef11b720b9a6cfb9a317.ttf",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/ecommerceLaptop/static/media/Montserrat-VariableFont_wght.3faa3eef13649db02044.ttf",
+    "index.html": "/ecommerceLaptop/index.html",
+    "main.6ef5a793.css.map": "/ecommerceLaptop/static/css/main.6ef5a793.css.map",
+    "main.59b5e9f6.js.map": "/ecommerceLaptop/static/js/main.59b5e9f6.js.map",
+    "787.0a1c06b3.chunk.js.map": "/ecommerceLaptop/static/js/787.0a1c06b3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab1f4251.css",
-    "static/js/main.b37dfdae.js"
+    "static/css/main.6ef5a793.css",
+    "static/js/main.59b5e9f6.js"
   ]
 }
