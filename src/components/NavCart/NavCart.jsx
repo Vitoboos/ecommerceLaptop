@@ -11,7 +11,7 @@ return (
 
     <ul className={styles.tabs}>
 
-        <Link to='/' className={styles.tab}> 
+        <Link to='/ecommerceLaptop' className={styles.tab}> 
             <li> {props.tab1} </li>             
         </Link>
 

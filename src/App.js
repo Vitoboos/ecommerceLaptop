@@ -15,7 +15,7 @@ function App() {
 
           <Routes>
           
-            <Route path='/' element={<Frontpage/>}> </Route>
+            <Route path='/ecommerceLaptop' element={<Frontpage/>}> </Route>
             <Route path='/gaming' element={<Gaming/>}> </Route>
             <Route path='/chromebooks' element={<Chromebooks/>}> </Route>
             <Route path='/business' element={<Business/>}> </Route>
