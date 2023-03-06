@@ -11,7 +11,7 @@ return (
 
     <ul className={styles.tabs}>
 
-        <Link to='/home' className={styles.tab}> 
+        <Link to='/' className={styles.tab}> 
             <li> {props.tab1} </li>             
         </Link>
 
