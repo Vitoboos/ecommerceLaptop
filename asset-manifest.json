@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ecommerceLaptop/static/css/main.6ef5a793.css",
-    "main.js": "/ecommerceLaptop/static/js/main.59b5e9f6.js",
-    "static/js/787.0a1c06b3.chunk.js": "/ecommerceLaptop/static/js/787.0a1c06b3.chunk.js",
-    "static/media/Montserrat-Italic-VariableFont_wght.ttf": "/ecommerceLaptop/static/media/Montserrat-Italic-VariableFont_wght.ef11b720b9a6cfb9a317.ttf",
-    "static/media/Montserrat-VariableFont_wght.ttf": "/ecommerceLaptop/static/media/Montserrat-VariableFont_wght.3faa3eef13649db02044.ttf",
-    "index.html": "/ecommerceLaptop/index.html",
-    "main.6ef5a793.css.map": "/ecommerceLaptop/static/css/main.6ef5a793.css.map",
-    "main.59b5e9f6.js.map": "/ecommerceLaptop/static/js/main.59b5e9f6.js.map",
-    "787.0a1c06b3.chunk.js.map": "/ecommerceLaptop/static/js/787.0a1c06b3.chunk.js.map"
+    "main.css": "/tekshop/static/css/main.927358d8.css",
+    "main.js": "/tekshop/static/js/main.c99a81ed.js",
+    "static/js/787.0a1c06b3.chunk.js": "/tekshop/static/js/787.0a1c06b3.chunk.js",
+    "static/media/Montserrat-Italic-VariableFont_wght.ttf": "/tekshop/static/media/Montserrat-Italic-VariableFont_wght.ef11b720b9a6cfb9a317.ttf",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/tekshop/static/media/Montserrat-VariableFont_wght.3faa3eef13649db02044.ttf",
+    "index.html": "/tekshop/index.html",
+    "main.927358d8.css.map": "/tekshop/static/css/main.927358d8.css.map",
+    "main.c99a81ed.js.map": "/tekshop/static/js/main.c99a81ed.js.map",
+    "787.0a1c06b3.chunk.js.map": "/tekshop/static/js/787.0a1c06b3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ef5a793.css",
-    "static/js/main.59b5e9f6.js"
+    "static/css/main.927358d8.css",
+    "static/js/main.c99a81ed.js"
   ]
 }
